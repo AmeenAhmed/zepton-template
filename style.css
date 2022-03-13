@@ -1,0 +1,16 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #1e293b;
+  margin-top: 60px;
+}
+
+.logo {
+  width: 200px;
+}
+
+a, a:link, a:visited {
+  color: #DC2625;
+}
